@@ -29,7 +29,7 @@ We can also leverage the Github repo [azure-quickstart-templates](https://github
 
 ## Deploy
 
-Visual Studio Code it the tool of choice when working on templates and deploying templates once we get a quickstart template we can export it and edit it manage our templates all from Visual Studio Code.
+Visual Studio Code is the tool of choice when working on templates and deploying templates once we get a quickstart template we can export it , edit and manage our templates all from [Visual Studio Code](https://code.visualstudio.com/).
 
 To deploy our templates into Azure we can use the following command passing in the path to our template and it supporting `parameters.json` file.
 
