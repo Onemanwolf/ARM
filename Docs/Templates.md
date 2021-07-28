@@ -43,4 +43,4 @@ New-AzResourceGroupDeployment -ResourceGroupName RG-IaCSample `
 
 ```
 
-You find some examples to start out with provided in the ImpInfraasCode folder.
+You will find some examples to start out with provided in the ImpInfraasCode folder in this repo.
