@@ -33,6 +33,8 @@ Visual Studio Code is the tool of choice when working on templates and deploying
 
 To deploy our templates into Azure we can use the following command passing in the path to our template and it supporting `parameters.json` file.
 
+You can run your commands from Visual Studio Code from the built in terminal window.
+
 ```Powershell
 New-AzResourceGroupDeployment -ResourceGroupName RG-IaCSample `
     -TemplateFile ".\ImpInfraasCode\StorageAccount.json" `
